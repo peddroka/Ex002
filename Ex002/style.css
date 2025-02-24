@@ -6,4 +6,6 @@ a {
 }
 ul {
   border: 10px solid black;
+  margin: 100px;
+  list-style: none;
 }
